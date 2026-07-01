@@ -17,7 +17,7 @@
   ],
   "require": {
     "php": "~8.1.0|~8.2.0",
-    "blade-ui-kit/blade-icons": "1.6.0",
+    "blade-ui-kit/blade-icons": "1.10.1",
     "illuminate/support": "^9.0|^10.0"
   },
   "require-dev": {
